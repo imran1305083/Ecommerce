@@ -25,6 +25,7 @@ const Header = () => {
           <AiOutlineHeart />
           <span className="cart-icon">
             <CgShoppingCart />
+            <span>5</span>
           </span>
         </div>
       </div>
